@@ -11,7 +11,7 @@ The COVID-19 pandemic has had an unprecedented impact on global health, economic
 
 1\. GDP per capita by Country (World Map):
 
-![]images/world_map.png)
+![](images/world_map.png)
 
 This world map shows GDP per capita across different countries. The color scale ranges from yellow (lower GDP) to red (higher GDP). We can see that only a few countries are colored, likely representing the top economies or those with available data. Saudi Arabia stands out in orange, indicating a relatively high GDP per capita. There's a small red area in Europe, possibly representing a wealthy nation like Luxembourg or Switzerland. The lack of data for most countries limits our ability to make global comparisons, but it does highlight the economic strength of certain nations.
 
